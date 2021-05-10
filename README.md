@@ -1,13 +1,13 @@
 ---
-title: AI in the Industry Tutorials (Anomaly Detection on Sequential Data)
+title: AI in the Industry Tutorials (Missing Data in Time Series)
 author: michele.lombardi2@unibo.it
 ---
 
-# Anomaly Detection on Sequential Data #
+# Missing Data in Time Series #
 
 This is one of a series of tutorials that are part of the "AI in the Industry" course at [University of Bologna](https://www.unibo.it/it). Each tutorial tackles a simplified industrial problem and aims at showing how similar problem can be tackled using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
-This tutorial in particular tackles a simple anomaly detection task, with an emphasis on using a rolling window approach to deal with sequence data. The tutorial covers also how to tackle anomaly detection problem by relying on an autoregressor, and how to build basic ensembles via selection and summation.
+This tutorial in particular addresses the problem of filling missing data in time series, using first basic interpolation methods and then switching to more advanced ones (Gaussian Processes). The tutorial also shows how to obtain simple ensembles via multiplication.
 
 # Accessing the Tutorial #
 
